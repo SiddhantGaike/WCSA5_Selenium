@@ -9,7 +9,5 @@ public class BaseTest extends Flib implements IAutoConstant
 	{
 		System.setProperty(PROP_PATH, "Browser");
 		
-	}
-	
-
+	}	
 }
